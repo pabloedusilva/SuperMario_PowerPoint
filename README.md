@@ -21,7 +21,7 @@
 
 - [x] **Iniciar o Jogo:** Navegue até o primeiro slide e siga as instruções para começar o jogo. O jogo é interativo e pode incluir ações de navegação entre slides, respostas a perguntas ou até mesmo desafios que exigem cliques ou atalhos do teclado.
 
-# 🛡️ Aviso de Segurança 🛡️
+# 🛡️ Aviso de Segurança
 **Importante:** Macros podem ser arriscadas. Elas podem executar código em seu sistema, o que, se proveniente de uma fonte não confiável, pode comprometer a segurança do seu computador. Este jogo foi criado por Pabloedusilva e é seguro, mas se você baixar macros de fontes desconhecidas, há o risco de vírus ou malware.
 
 # ⚠️ Atenção ⚠️
