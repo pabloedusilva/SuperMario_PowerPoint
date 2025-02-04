@@ -3,7 +3,7 @@
 
 * Super Mario WORLD UP é um jogo interativo criado completamente dentro do PowerPoint! Utilizando VBA (Visual Basic for Applications) e macros, criei uma experiência de jogo que pode ser jogada diretamente em uma apresentação de slides. A ideia é oferecer uma maneira divertida e criativa de aproveitar o PowerPoint, utilizando suas funcionalidades para programação e interatividade.
 
-# Como Jogar
+# 🎮 Como Jogar:
 
 **1. Abrir o PowerPoint:** Abra o arquivo do PowerPoint onde o jogo foi criado.
 
@@ -30,18 +30,18 @@
 Arquivo de fonte desconhecida: Nunca habilite macros em arquivos de fontes duvidosas ou não verificadas, pois isso pode comprometer a segurança de seu sistema.
 
 
-# Como Personalizar o Jogo?
+# 🎨 Como Personalizar o Jogo?
 * Você pode personalizar este jogo conforme desejar. Algumas opções de personalização incluem:
 
 - [x] Alterar o Tema: Modifique o design da apresentação, altere os fundos, fontes e cores para criar uma experiência visual única.
 - [x] Adicionar Novos Desafios: Crie mais slides interativos ou adicione perguntas e desafios ao longo do jogo.
 
-# Requisitos
+# 📌 Requisitos
 - [x] **Microsoft PowerPoint** (versão 2010 ou superior, recomendada).
 - [x] **Macros habilitadas:** Certifique-se de habilitar as macros para que o jogo funcione corretamente.
 - [x] **Sistema operacional:** O jogo foi desenvolvido para ser executado em sistemas Windows com o PowerPoint instalado, mas pode funcionar também em sistemas Mac, desde que as macros sejam habilitadas.
 
-# Contribuições
+# 📌 Contribuições
 * Se você quiser melhorar ou adicionar novos recursos ao jogo, fique à vontade para fazer contribuições! Se você tem sugestões ou melhorias, envie um pull request ou abra uma issue.
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/c33737f5-c890-45b9-9451-70bfc5292f97" />
