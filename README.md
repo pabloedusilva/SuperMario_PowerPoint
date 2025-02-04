@@ -43,3 +43,6 @@ Arquivo de fonte desconhecida: Nunca habilite macros em arquivos de fontes duvid
 
 # Contribuições
 * Se você quiser melhorar ou adicionar novos recursos ao jogo, fique à vontade para fazer contribuições! Se você tem sugestões ou melhorias, envie um pull request ou abra uma issue.
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c33737f5-c890-45b9-9451-70bfc5292f97" />
+
